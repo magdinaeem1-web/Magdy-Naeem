@@ -1,0 +1,6 @@
+{
+  "name": "Petalum — Floral Artistry & Botanical Journal",
+  "description": "An editorial floral publication showcasing artisanal bouquets, fine art photography, botanical recipes, and master flower arranging guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
